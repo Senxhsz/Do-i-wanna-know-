@@ -1,0 +1,6 @@
+{
+  "appId": "com.tunota.pensamiento",
+  "appName": "Un pensamiento vago",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}

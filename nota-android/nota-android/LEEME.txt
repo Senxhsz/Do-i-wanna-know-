@@ -1,0 +1,10 @@
+PROYECTO ANDROID (APK)
+
+1. Copia tu cancion.mp3 y tu lyrics.txt (ya sincronizada) dentro de la carpeta www.
+   Reemplaza el lyrics.txt vacio que viene aqui.
+2. Crea un repositorio PRIVADO en GitHub y sube todo lo de esta carpeta, MENOS android.yml.
+3. En el repositorio: Add file > Create new file. Como nombre escribe exactamente:
+   .github/workflows/android.yml
+   Abre android.yml (de esta carpeta) con el Bloc de notas, copia todo y pegalo. Pulsa Commit changes.
+4. Pestana Actions: espera a que "Build APK" termine (unos 5 a 10 minutos).
+5. Entra a esa ejecucion, baja hasta Artifacts y descarga una-nota-apk. Dentro esta app-debug.apk.
